@@ -1,1 +1,5 @@
+# KONEXÃO DIRETA (KD) - Dependências
+# Função: Lista as bibliotecas Python necessárias para a execução da plataforma KD.
+# Utilizado para configurar o ambiente de desenvolvimento e produção.
+
 streamlit

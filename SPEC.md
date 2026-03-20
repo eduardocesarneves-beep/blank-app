@@ -1,3 +1,9 @@
+"""
+KONEXÃO DIRETA (KD) - SPEC.md
+Função: Documento mestre de especificação do produto. Fonte única de verdade para produto, 
+design, desenvolvimento e compliance da plataforma Konexão Direta.
+"""
+
 # KONEXÃO DIRETA — SPEC.md
 > Documento mestre de especificação do produto. Fonte única de verdade para produto, design, desenvolvimento e compliance.
 > Versão: 1.0 | Data: Março/2026 | Status: Ativo
